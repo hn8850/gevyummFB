@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "117595927925",
+    "firebase_url": "https://gevyumm-default-rtdb.firebaseio.com",
+    "project_id": "gevyumm",
+    "storage_bucket": "gevyumm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:117595927925:android:d5883555d385d5a66c0f3c",
+        "android_client_info": {
+          "package_name": "com.example.gevyummfb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "117595927925-thj8ombshuig9gbumr2e4r29b1n757ui.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSk9J_TS7A0XM3SA-eabjr5nJEeMIXN3I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "117595927925-thj8ombshuig9gbumr2e4r29b1n757ui.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
